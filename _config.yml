@@ -6,10 +6,10 @@
 name: YOLORAID
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: The not-so-serious RAID Calculator
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: 
 
 #
 # Flags below are optional
